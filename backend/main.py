@@ -63,7 +63,9 @@ if os.path.exists(frontend_build_path):
     app.mount("/", StaticFiles(directory=frontend_build_path, html=True), name="frontend")
 else:
     print("Warning: Frontend build folder not found. Static files not mounted.")
-    # Optionally, you could mount a fallback directory if available
+    @app.get("/")
+    async def fallback():
+        return JSONResponse(content={"detail": "Frontend not built. Please run 'npm run build' in the frontend folder."})
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8080)
