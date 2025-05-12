@@ -15,6 +15,20 @@ An educational web app to help children (age ~12) learn French vocabulary using 
 
 ---
 
+## Architecture
+
+### Back End (FastAPI + Uvicorn)
+- Provides endpoints:
+  - `/list-jsons`: returns a list of available JSON identifiers.
+  - `/json/{id}`: returns content of the JSON file.
+- Swagger documentation available at `/swagger` (and Redoc at `/redoc`).
+- Designed with scalability in mind (support for dozens of pages).
+
+### Front End (React + TailwindCSS)
+- Tabbed interface: one tab per JSON file (e.g., “Page 1” corresponds to a JSON identifier).
+- Vocabulary table (images shown when available).
+- Dedicated “Learning Mode” for practicing translations.
+
 ## 🧠 Vocabulary Format
 
 Each scanned page is processed into a JSON file like:
