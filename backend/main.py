@@ -3,6 +3,7 @@ import json
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
+import uvicorn
 
 # Enable Swagger at /swagger and Redoc at /redoc
 app = FastAPI(docs_url="/swagger", redoc_url="/redoc")
@@ -65,5 +66,4 @@ else:
     # Optionally, you could mount a fallback directory if available
 
 if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run("main:app", host="0.0.0.0", port=8080, reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=8080)
