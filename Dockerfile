@@ -12,8 +12,9 @@ WORKDIR /app/backend
 COPY backend/requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-# 3) Copy React build into Python container
+# 3) Copy React build into Python containerr
 COPY --from=frontend-build /app/frontend/build ./frontend/build
+RUN ls /app/frontend
 COPY backend/ .
 
 # 4) Expose and run
