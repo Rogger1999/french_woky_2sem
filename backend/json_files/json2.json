@@ -1,52 +1,7 @@
 [
   {
-    "french": "important/importante",
-    "german": "wichtig/bedeutend",
-    "image_url": null
-  },
-  {
-    "french": "un problème",
-    "german": "ein Problem",
-    "image_url": null
-  },
-  {
-    "french": "une exposition",
-    "german": "eine Ausstellung",
-    "image_url": null
-  },
-  {
-    "french": "un défaut",
-    "german": "ein Mangel",
-    "image_url": null
-  },
-  {
-    "french": "petit/petite",
-    "german": "klein",
-    "image_url": null
-  },
-  {
-    "french": "marrant/marrante",
-    "german": "witzig, lustig",
-    "image_url": null
-  },
-  {
-    "french": "un moment",
-    "german": "ein Moment",
-    "image_url": null
-  },
-  {
-    "french": "grand/grande",
-    "german": "groß",
-    "image_url": null
-  },
-  {
-    "french": "pouvoir",
-    "german": "können",
-    "image_url": null
-  },
-  {
-    "french": "vouloir",
-    "german": "wollen",
+    "french": "le petit-déjeuner",
+    "german": "das Frühstück",
     "image_url": null
   },
   {
@@ -55,48 +10,93 @@
     "image_url": null
   },
   {
+    "french": "tard",
+    "german": "spät",
+    "image_url": null
+  },
+  {
     "french": "une réunion",
-    "german": "eine Besprechung",
+    "german": "eine Versammlung; eine Besprechung",
     "image_url": null
   },
   {
-    "french": "un apéritif",
-    "german": "ein Aperitif",
+    "french": "l'apéro (m.)",
+    "german": "der Aperitiv",
     "image_url": null
   },
   {
-    "french": "attendre qn",
-    "german": "auf jdn warten",
+    "french": "vouloir",
+    "german": "wollen",
     "image_url": null
   },
   {
-    "french": "entendre qc/qn",
-    "german": "etw./jdn hören",
+    "french": "pouvoir",
+    "german": "können",
     "image_url": null
   },
   {
-    "french": "une aventure",
-    "german": "ein Abenteuer",
+    "french": "grand/grande",
+    "german": "groß",
     "image_url": null
   },
   {
-    "french": "quelle aventure!",
-    "german": "Was für ein Abenteuer!",
+    "french": "un moment",
+    "german": "ein Moment",
     "image_url": null
   },
   {
-    "french": "changer (de ligne)",
-    "german": "umsteigen (Linie wechseln)",
+    "french": "marrant/marrante (fam.)",
+    "german": "witzig; lustig",
     "image_url": null
   },
   {
-    "french": "jusqu’à",
-    "german": "bis (örtlich)",
+    "french": "demander qc à qn",
+    "german": "jdn. nach etw. fragen; jdn. um etw. bitten",
     "image_url": null
   },
   {
-    "french": "une station",
-    "german": "eine Haltestelle",
+    "french": "on aimerait faire qc",
+    "german": "wir würden gern etw. tun",
+    "image_url": null
+  },
+  {
+    "french": "visiter qc",
+    "german": "etw. besichtigen",
+    "image_url": null
+  },
+  {
+    "french": "une exposition",
+    "german": "eine Ausstellung",
+    "image_url": null
+  },
+  {
+    "french": "important/importante",
+    "german": "wichtig; bedeutend",
+    "image_url": null
+  },
+  {
+    "french": "un manga",
+    "german": "ein Manga",
+    "image_url": null
+  },
+  {
+    "french": "loin",
+    "german": "weit (weg) (Adv.)",
+    "image_url": null
+  },
+  {
+    "french": "petit/petite",
+    "german": "klein",
+    "image_url": null
+  },
+  {
+    "french": "le métro",
+    "german": "die Metro; die U-Bahn",
+    "image_url": null
+  },
+  {
+    "french": "un changement",
+    "german": "ein Wechsel",
     "image_url": null
   }
 ]

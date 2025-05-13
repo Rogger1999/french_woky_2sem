@@ -1,52 +1,62 @@
 [
   {
-    "french": "fermer",
-    "german": "schließen",
+    "french": "un acteur/une actrice",
+    "german": "ein Schauspieler/eine Schauspielerin",
     "image_url": null
   },
   {
-    "french": "une imprimante",
-    "german": "ein Drucker",
+    "french": "couper qc",
+    "german": "etw. schneiden; etw. abschneiden",
     "image_url": null
   },
   {
-    "french": "un document",
-    "german": "ein Dokument",
+    "french": "Coupez !",
+    "german": "Schnitt! (Regiebefehl bei Aufnahmen)",
     "image_url": null
   },
   {
-    "french": "naviguer sur Internet",
-    "german": "im Internet surfen",
+    "french": "un réalisateur/une réalisatrice",
+    "german": "ein (Film-)Regisseur/eine (Film-)Regisseurin",
     "image_url": null
   },
   {
-    "french": "une adresse e-mail",
-    "german": "eine E-Mail-Adresse",
+    "french": "gros/grosse",
+    "german": "groß; dick",
     "image_url": null
   },
   {
-    "french": "envoyer un e-mail",
-    "german": "eine E-Mail schicken",
+    "french": "une caméra",
+    "german": "eine Kamera",
     "image_url": null
   },
   {
-    "french": "taper un texte",
-    "german": "einen Text tippen",
+    "french": "remarquer qn/qc",
+    "german": "jdn./etw. bemerken",
     "image_url": null
   },
   {
-    "french": "une touche",
-    "german": "eine Taste",
+    "french": "numérique",
+    "german": "digital",
     "image_url": null
   },
   {
-    "french": "brancher qc",
-    "german": "etw. anschließen",
+    "french": "dernier/dernière",
+    "german": "letzter/letzte/letztes",
     "image_url": null
   },
   {
-    "french": "un mot de passe",
-    "german": "ein Passwort",
+    "french": "bon/bonne",
+    "german": "gut",
+    "image_url": null
+  },
+  {
+    "french": "une image",
+    "german": "ein Bild",
+    "image_url": null
+  },
+  {
+    "french": "ailleurs",
+    "german": "woanders",
     "image_url": null
   }
 ]

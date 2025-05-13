@@ -1,52 +1,142 @@
 [
   {
-    "french": "un ordinateur",
-    "german": "ein Computer",
+    "french": "un batobus",
+    "german": "Transportmittel auf der Seine",
     "image_url": null
   },
   {
-    "french": "une clé USB",
-    "german": "ein USB-Stick",
+    "french": "mauvais/mauvaise",
+    "german": "schlecht",
     "image_url": null
   },
   {
-    "french": "un portable",
-    "german": "ein Handy",
+    "french": "tout droit",
+    "german": "geradeaus",
     "image_url": null
   },
   {
-    "french": "envoyer un message",
-    "german": "eine Nachricht senden",
+    "french": "puis",
+    "german": "dann",
     "image_url": null
   },
   {
-    "french": "cliquer",
-    "german": "klicken",
+    "french": "à gauche",
+    "german": "nach links",
     "image_url": null
   },
   {
-    "french": "un écran",
-    "german": "ein Bildschirm",
+    "french": "presque",
+    "german": "fast; beinahe",
     "image_url": null
   },
   {
-    "french": "télécharger qc",
-    "german": "etw. herunterladen",
+    "french": "un bateau/des bateaux",
+    "german": "ein Boot/Boote; ein Schiff/Schiffe",
     "image_url": null
   },
   {
-    "french": "un fichier",
-    "german": "eine Datei",
+    "french": "ici",
+    "german": "hier; hierher",
     "image_url": null
   },
   {
-    "french": "le Wi-Fi",
-    "german": "das WLAN",
+    "french": "bien vouloir",
+    "german": "gerne (wollen/mögen)",
     "image_url": null
   },
   {
-    "french": "ouvrir",
-    "german": "öffnen",
+    "french": "marcher",
+    "german": "gehen; laufen",
+    "image_url": null
+  },
+  {
+    "french": "joli/jolie",
+    "german": "hübsch; nett",
+    "image_url": null
+  },
+  {
+    "french": "voler qc à qn",
+    "german": "jdm. etw. stehlen",
+    "image_url": null
+  },
+  {
+    "french": "tout à coup",
+    "german": "plötzlich",
+    "image_url": null
+  },
+  {
+    "french": "une femme",
+    "german": "eine Frau",
+    "image_url": null
+  },
+  {
+    "french": "un homme",
+    "german": "ein Mann",
+    "image_url": null
+  },
+  {
+    "french": "vite (Adv)",
+    "german": "schnell (Adv)",
+    "image_url": null
+  },
+  {
+    "french": "partir à la poursuite de qn",
+    "german": "jds. Verfolgung aufnehmen",
+    "image_url": null
+  },
+  {
+    "french": "un voleur/une voleuse",
+    "german": "ein Dieb/eine Diebin",
+    "image_url": null
+  },
+  {
+    "french": "hésiter",
+    "german": "zögern",
+    "image_url": null
+  },
+  {
+    "french": "une personne",
+    "german": "eine Person",
+    "image_url": null
+  },
+  {
+    "french": "avoir peur",
+    "german": "Angst haben",
+    "image_url": null
+  },
+  {
+    "french": "à droite",
+    "german": "(nach) rechts",
+    "image_url": null
+  },
+  {
+    "french": "tourner",
+    "german": "abbiegen",
+    "image_url": null
+  },
+  {
+    "french": "un carrefour",
+    "german": "eine Kreuzung",
+    "image_url": null
+  },
+  {
+    "french": "en face de qc",
+    "german": "gegenüber von etw.",
+    "image_url": null
+  },
+  {
+    "french": "dangereux/dangereuse",
+    "german": "gefährlich",
+    "image_url": null
+  },
+  {
+    "french": "courageux/courageuse",
+    "german": "mutig",
+    "image_url": null
+  },
+  {
+    "french": "répondre (à qn)",
+    "german": "(jdm.) antworten",
     "image_url": null
   }
 ]

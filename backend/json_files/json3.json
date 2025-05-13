@@ -1,97 +1,112 @@
 [
   {
-    "french": "tourner (à droite)",
-    "german": "abbiegen (nach rechts)",
+    "french": "il y a juste un petit changement",
+    "german": "man muss nur einmal kurz umsteigen",
     "image_url": null
   },
   {
-    "french": "une rue",
-    "german": "eine Straße",
+    "french": "une ligne",
+    "german": "eine (Verkehrs-)Linie",
     "image_url": null
   },
   {
-    "french": "une personne",
-    "german": "eine Person",
+    "french": "changer",
+    "german": "wechseln; umsteigen",
     "image_url": null
   },
   {
-    "french": "avoir peur (de qn)",
-    "german": "Angst haben (vor jdm)",
+    "french": "direct/directe",
+    "german": "direkt",
     "image_url": null
   },
   {
-    "french": "hésiter",
-    "german": "zögern",
+    "french": "jusqu'à",
+    "german": "bis",
     "image_url": null
   },
   {
-    "french": "arrêter qn",
-    "german": "jdn. festnehmen",
+    "french": "un trajet",
+    "german": "eine Strecke",
     "image_url": null
   },
   {
-    "french": "une femme",
-    "german": "eine Frau",
+    "french": "Quelle ligne est-ce que je prends pour aller à ... ?",
+    "german": "Welche Linie muss ich nehmen, um nach ... zu kommen?",
     "image_url": null
   },
   {
-    "french": "un homme",
-    "german": "ein Mann",
+    "french": "une station",
+    "german": "eine Station; eine Haltestelle",
     "image_url": null
   },
   {
-    "french": "vite (Adv)",
-    "german": "schnell",
+    "french": "la direction",
+    "german": "die Richtung",
     "image_url": null
   },
   {
-    "french": "joli/jolie",
-    "german": "hübsch, nett",
+    "french": "en direction de",
+    "german": "in Richtung",
     "image_url": null
   },
   {
-    "french": "marcher",
-    "german": "gehen, laufen",
+    "french": "Vous descendez ...",
+    "german": "Sie steigen aus ...",
     "image_url": null
   },
   {
-    "french": "presque",
-    "german": "fast",
+    "french": "un terminus",
+    "german": "eine Endstation",
     "image_url": null
   },
   {
-    "french": "à gauche",
-    "german": "nach links",
+    "french": "flipper (fam.)",
+    "german": "ausflippen (ugs.); eine Riesenangst haben (ugs.)",
     "image_url": null
   },
   {
-    "french": "un bateau",
-    "german": "ein Schiff",
+    "french": "rassurer qn",
+    "german": "jdn. beruhigen",
     "image_url": null
   },
   {
-    "french": "mauvais/mauvaise",
-    "german": "schlecht",
+    "french": "Youpi !",
+    "german": "Hurra!; Jippie!",
     "image_url": null
   },
   {
-    "french": "un acteur/une actrice",
-    "german": "ein Schauspieler/eine Schauspielerin",
+    "french": "une aventure",
+    "german": "ein Abenteuer",
     "image_url": null
   },
   {
-    "french": "un réalisateur/une réalisatrice",
-    "german": "ein Regisseur/eine Regisseurin",
+    "french": "attendre qn",
+    "german": "auf jdn. warten; jdn. erwarten",
     "image_url": null
   },
   {
-    "french": "une image",
-    "german": "ein Bild",
+    "french": "descendre",
+    "german": "hinuntergehen; aussteigen",
     "image_url": null
   },
   {
-    "french": "ailleurs",
-    "german": "woanders",
+    "french": "entendre qn/qc",
+    "german": "jdn./etw. hören",
+    "image_url": null
+  },
+  {
+    "french": "un rire",
+    "german": "ein Lachen",
+    "image_url": null
+  },
+  {
+    "french": "passer qc",
+    "german": "etw. verbringen",
+    "image_url": null
+  },
+  {
+    "french": "Quelle aventure !",
+    "german": "Was für ein Abenteuer!",
     "image_url": null
   }
 ]
